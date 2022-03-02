@@ -1,0 +1,1 @@
+{"name":"testview","type":"ui-container","source":{"https":"https://github.com/devthalal/_test_testview","ssh":"git@github.com:devthalal/_test_testview.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
